@@ -1,2 +1,3 @@
 # attendance-MS
-simple CLI based AMS
+1. simple CLI based AMS
+2. change
